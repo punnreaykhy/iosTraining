@@ -1,0 +1,6 @@
+framework module Pods_1stProject_GIC {
+  umbrella header "Pods-1stProject.GIC-umbrella.h"
+
+  export *
+  module * { export * }
+}
